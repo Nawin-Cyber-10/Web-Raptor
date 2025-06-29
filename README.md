@@ -1,8 +1,5 @@
 # 🦅 Web Raptor
 
-<div align="center">
-  <img src="public/shuriken-logo.svg" alt="Web Raptor Logo" width="100" height="100">
-  
   **Web Reconnaissance Platform & Threat Intelligence**
   
   *Developed by Exploit*
